@@ -3,8 +3,11 @@
 Controls:
 
 k: generate MST with Kruskal
+
 p: generate MST with Prim
+
 c: clear solution
+
 g: generate new random graph
 
 
