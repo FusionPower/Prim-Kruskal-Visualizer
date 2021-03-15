@@ -1,3 +1,4 @@
+
 # Prim-Kruskal-Visualizer
 
 Controls:
@@ -17,6 +18,6 @@ g: generate new random graph
 ![Screenshot from 2021-03-15 12-53-53](https://user-images.githubusercontent.com/54119843/111206563-25258c00-858e-11eb-9d45-5cd418321afa.png)
 ![Screenshot from 2021-03-15 12-53-39](https://user-images.githubusercontent.com/54119843/111206551-20f96e80-858e-11eb-89a8-1f2a083ee0d8.png)
 
-
+![Screenshot from 2021-03-15 13-39-40](https://user-images.githubusercontent.com/54119843/111211363-ee527480-8593-11eb-95b9-aae569f25d66.png)
 
 Further tweeks: dive into code
